@@ -2,6 +2,22 @@
 
 > Translated from https://github.com/HerculesNode/Testnet-Rehber/tree/main/Nexus
 
+
+# Nexus III
+
+![Nexus Logo](https://framerusercontent.com/images/rj7WYEn8kN0pgryMvb583AzieU.png)
+
+---
+
+## Community Links
+
+- [Discord](https://discord.com/invite/nexus-xyz)
+- [Nexus Twitter](https://x.com/NexusLabs)
+- [Nexus Website](https://nexus.xyz/)
+- [Nexus Github](https://github.com/nexus-xyz/)
+- [Nexus Telegram](https://t.me/)
+- [Blockchain Explorer](https://app.nexus.xyz/)
+
 ## ✅ Prerequisites
 
 - Ubuntu 20.04 / 22.04 / 24.04  
